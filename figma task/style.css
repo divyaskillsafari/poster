@@ -1,0 +1,115 @@
+body{
+    margin: 10px;
+    margin-left: 100px;
+    display: flex;
+    border: 1px solid rgb(241, 241, 241);
+    width: 1000px;
+}
+.sec1{
+    margin-top: 20px;
+    padding:20px;
+    width: 400px;
+    /* background-color: burlywood;  */
+}
+.get{
+    background-color: black;
+    color: #FFFFFF; 
+    border-radius: 30px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100px;
+    text-align: center;
+    
+}
+.div1 h1{
+    font-weight: 400;
+    font-size: 30px;
+}
+.curve{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color:#C0D9DD ;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 40px;
+    border: 1px solid black;
+
+
+/* color: #333333;
+ font-size: 19.22px;
+ font-family: Lato;
+ font-weight: 400;
+ word-wrap: break-word */
+}
+.curve2{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color:#FFC671 ;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+.curve3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #F9DEEC;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 40px;
+    border: 1px solid black
+}
+.icon{
+    position: absolute;
+    width: 20px;
+}
+.div2{
+    display: flex;   
+}
+
+.title{
+    display: flex;
+    border: 2px solid grey;
+    font-style: normal;
+    color: #333333;
+    font-family: 'Lato';
+    border-radius: 20px;  
+    margin-top: 50px;   
+}  
+
+.title1{
+    width: 170px;
+    padding-left: 20px;   
+}
+.div1{
+ width: 300px;
+}
+.a{
+    width: 200px;
+    padding: 20px;
+    
+}
+.sec2{
+    /* background-color: burlywood; */
+    display: flex;
+    width: 500px;
+    margin-left: 100px;
+}
+
+.img2{
+   padding: 20px;
+   padding-top: 50px;
+}
